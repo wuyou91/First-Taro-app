@@ -1,4 +1,5 @@
 
+import '@nutui/nutui-react-taro/dist/style.css'  // 全量引入nutui样式文件
 import { useLaunch } from '@tarojs/taro'
 import './app.less'
 
